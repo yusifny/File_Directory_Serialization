@@ -1,0 +1,14 @@
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization.deps.json
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization.runtimeconfig.json
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/bin/Debug/netcoreapp3.1/File_Directory_Serialization.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.AssemblyInfo.cs
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.dll
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.pdb
+/Users/yusifnazarbayov/Visual Studio/Projects/File_Directory_Serialization/obj/Debug/netcoreapp3.1/File_Directory_Serialization.genruntimeconfig.cache
